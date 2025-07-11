@@ -14,3 +14,4 @@ Website Bagonar dirancang untuk memperkenalkan profil Bagonar kepada khalayak lu
 
 Secara keseluruhan, website ini berfungsi sebagai platform informasi dan interaksi yang komprehensif bagi pelanggan dan pihak yang ingin mengetahui lebih lanjut tentang Bagonar.
 
+**NOTES : Website ini  masih dalam tahap perkembangan , dan kedepannya akan memberikan fitur dan User Experience baru , Terimakasih! **
