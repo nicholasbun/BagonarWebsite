@@ -1,6 +1,6 @@
 Website ini adalah representasi digital dari Bagonar, sebuah Wirausaha/UMKM yang berfokus pada penjualan camilan halal, dengan menu utama Bakso Goreng, Siomay, dan Gohyong. Didirikan pada tahun 2018, Bagonar memulai perjalanannya secara offline sebelum memperluas pasar ke ranah online, menjadikan Jakarta Pusat sebagai outlet pusat. Hingga saat ini, Bagonar telah memiliki tiga cabang di Jakarta (Kebon Jeruk, Green Garden, Sawah Besar) dan terus berencana menambah cabang baru.
 
-## Tujuan Website:
+## Tujuan Website 🎯:
 
 Website Bagonar dirancang untuk memperkenalkan profil Bagonar kepada khalayak luas dan memudahkan pelanggan dalam berinteraksi. Fitur-fitur utama website ini meliputi:
 
